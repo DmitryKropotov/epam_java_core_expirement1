@@ -8,11 +8,10 @@ public class Main {
     }
 
     public static boolean makeBricks(int small, int big, int goal) {
-        for(int i=goal/5; i>=0; i--){
-            if(big>=i && small>=goal%5+5*(goal/5-i)){
-                return true;
-            }
+        if(5*big+small<goal || goal%5>small){
+            return false;
         }
-        return false;
+
+        return true;
     }
 }
