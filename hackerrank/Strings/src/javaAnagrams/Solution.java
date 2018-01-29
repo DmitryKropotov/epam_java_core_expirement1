@@ -19,8 +19,8 @@ public class Solution {
                 while(j<LENGTH && detectedNumbersOfB[j]){//miss already detected numbers of characters in b
                     j++;
                 }
-                if(j==LENGTH){//if j went over wild of allowable range, we have to return j to the range
-                    j = LENGTH-1;
+                if(j==LENGTH){//if j went over wild of allowable range, we have to return false
+                    return false;
                 }
                 if(a.charAt(i)==b.charAt(j)){
                     detectedNumbersOfB[j] = true;
