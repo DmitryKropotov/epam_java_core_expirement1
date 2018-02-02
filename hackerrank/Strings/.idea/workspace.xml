@@ -18,50 +18,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaStringsIntroduction/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/javaRegex2/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="15" column="12" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="15" selection-end-column="12" />
+            <state relative-caret-position="245">
+              <caret line="24" column="38" lean-forward="false" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaSubstring/Solution.java">
+      <file leaf-file-name="input.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaRegex2/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javaAnagrams/Solution.java">
+      <file leaf-file-name="buffer1" pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/buffer1">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+            <state relative-caret-position="34">
+              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tagContentExtrator/Solution.java">
+      <file leaf-file-name="Scanner.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/Scanner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/validUsernameRegularExpression/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            <state relative-caret-position="11">
+              <caret line="1545" column="18" lean-forward="false" selection-start-line="1545" selection-start-column="18" selection-end-line="1545" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -70,50 +60,9 @@
       <file leaf-file-name="Matcher.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/regex/Matcher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-84">
+            <state relative-caret-position="11594">
               <caret line="730" column="19" lean-forward="false" selection-start-line="730" selection-start-column="19" selection-end-line="730" selection-end-column="19" />
-              <folding>
-                <element signature="e#20305#20306#0" expanded="true" />
-                <element signature="e#20336#20337#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaStringTokens/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/patternSyntaxChecker/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaRegex/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -143,7 +92,26 @@
       <find>&lt;(.*)&gt;[.*&amp;&amp;[^/\1]]&lt;/\1&gt;</find>
       <find>&lt;h1&gt;2&lt;/h1&gt;&lt;h1&gt;2&lt;/h1&gt;</find>
       <find>&lt;(.*)&gt;[.*[^\1]]&lt;/\1&gt;</find>
+      <find>[.\&amp;&amp;[^a]]</find>
+      <find>[.\&amp;&amp;[^/]]*</find>
+      <find>&lt;(.+)&gt;.*&lt;+/\1&gt;</find>
+      <find>&quot; +'\\'+&quot;</find>
+      <find>&quot;+'\\'+&quot;</find>
+      <find>(\b\w+)\s+(\1\s+)?\1\b</find>
+      <find>(\b\w+)\s+(\1\s+)?</find>
+      <find>(\b\w+)\s+(\1\s+)</find>
+      <find>(\b\w+)\s+(\1\s+)+</find>
+      <find>(\b\w+)\s+(\1\s+)+\b</find>
+      <find>CLGtXk*y$n&amp;GUXH*+kEeb)c6w&amp;fR6mIAqmE^J=x){EyPa`m2d0rRwjVt2</find>
+      <find>&lt;lkcK}TdQ42WhJZ6`_#exUTsb&gt;&lt;Vy{p=3+0{c&quot;&quot;YW8tSBRw=&quot;avY9M{-+MktGI~ur2Wpc&amp;&gt;zRyaNM4q~ZIF}v2pFK8G--^YxMnXiUfiwrKTjetCwYXdXtiWXpPKWksRVvQDiG29)_~&amp;Oj=TTMcHJ%GPnqc)r&lt;maBwzFOyvIF2Pu@*cDG1{}T_+-8l&quot;}a 7EmdQ^nGP&amp;xpk&gt;&lt;zr0G~{xq~3IG-R$1vDmfK6EVt r+e7bIjX^U4pPK&gt;vQG&lt;YaOHkoQsR+~Qu59Q@5pLBXx^Eh^navcs=bvsum3gkBS9&gt;&lt;OP{=&amp;{ZRf9QZ@B2q%7+alZI%bzjc&gt;&lt;uGRt#N SyQ2RV@725cp=UA&gt;&lt;wHchkPn%KF U)ifK3fKX&quot;BuCm50S1n~@*&gt;oolMMKgiglbBapgUHTK&lt;/uGRt#N SyQ2RV@725cp=UA&gt;cepN&lt;/YaOHkoQsR+~Qu59Q@5pLBXx^Eh^navcs=bvsum3gkBS9&gt;grJjCjVCvePb&quot;8BW%8&quot;U*CBv=t1rQRLW-VY`r$74(2R)SKAiRoX XD%wk3 %0X#(RkN&lt;lalzYLZUdzumb4=**hgqSh1`*f_%ad1RaU5W^7rKP4FjL_3KQ#AfXV1P@Zx2pR&gt;&lt;/lalzYLZUdzumb4=**hgqSh1`*f_%ad1RaU5W^7rKP4FjL_3KQ#AfXV1P@Zx2pR&gt;&lt;ElKjh=UKdX~zshe0HhAxj~hUbs5du6RVaOdtl&gt;&lt;JYeCUnDN}7vn8umMOK8pN&gt;aMDDHiJ)w{JopH*d7Fu$d69wzhP@UR&quot;*$Q2c_EW)bhEKosIVp&lt;/JYeCUnDN}7vn8umMOK8pN&gt;lojrbZpQThnmC&lt;/ElKjh=UKdX~zshe0HhAxj~hUbs5du6RVaOdtl&gt;&lt;pYIAxmVt{vaQEUu09oiuHmzq8WemhzC-%JZq4j6#gb3PwPl)_ENh&gt;&lt;gwEE=7^0ItwN1ud&quot;}-aTA-&amp;N(sQ&gt;&lt;BUhn)HSZg1EwoCCAUsJB7&gt;&lt;CmkO6v4}RVvXVHQ=XpwrW&gt;&lt;Cz}ePNCa-4q4{2EnuvL0(s)w#^g}h~1jeIUa&amp;HK&quot;=&gt;QSrHFKDZwnpsy3vEfv`i(W)8bhn@2QAa_C $sqr*0iSGZQOtPjg{}3{SyCAZ y&lt;/Cz}ePNCa-4q4{2EnuvL0(s)w#^g}h~1jeIUa&amp;HK&quot;=&gt;YJUIUIMQvmSdHqmw&lt;/BUhn)HSZg1EwoCCAUsJB7&gt;JiGJyfPAOWzrYLydR&lt;/gwEE=7^0ItwN1ud&quot;}-aTA-&amp;N(sQ&gt;FHEtwSnFGApIblj&lt;/pYIAxmVt{vaQEUu09oiuHmzq8WemhzC-%JZq4j6#gb3PwPl)_ENh&gt;&lt;SeDIifcqQEL_51Fdyw~j{&amp;+iJ4=O}4BfTTz8i0bF=O&amp;zo0t$G8+T&quot;Y#F#$d*m9a~Vc&gt;&lt;/SeDIifcqQEL_51Fdyw~j{&amp;+iJ4=O}4BfTTz8i0bF=O&amp;zo0t$G8+T&quot;Y#F#$d*m9a~Vc&gt;uAfpQ7Vk 1F&amp;8}&amp;ycQ2WhsMv6&amp;7#RmoR)Wy2KRIn1jMDN$z&lt;yrGgBt*3uMM1mUUB%_1&gt;mbaSEKZV V_3qnh &amp;PmsN3ujiHn5Xwg27GOO4Sh`m{*WO+T&lt;ediTfcjpIo-bPvRca$cVBWI&quot;nl&amp;PEw25rW 1ZIAr&quot;Fzb=m(bT`x*T&quot;l5LsMJ{(~MmVt&gt;&lt;/ediTfcjpIo-bPvRca$cVBWI&quot;nl&amp;PEw25rW 1ZIAr&quot;Fzb=m(bT`x*T&quot;l5LsMJ{(~MmVt&gt;OZwxs2_uAyLL6L)6{Kq{l&lt;fRdcT-*Qu=nKHiY&quot;$7J9mkryn M&gt;&lt;/fRdcT-*Qu=nKHiY&quot;$7J9mkryn M&gt;RTSkwNKfW{Oeubp3-k4)~vFO{Czl ilL%W Lbz&lt;GRmuc{t8sw%jlG#jMydOnsMV)LAP76y)oZBmTD09zduzQRB)#av`&gt;&lt;bgj*Nc8FkrgBjc9Ggb(ZtyldOw{61ufky8{RK^KAOe94&gt;&lt;VKZLLMbU}dpYM3x&amp;&amp;~A=D&amp;&amp;Gl(&gt;&lt;/VKZLLMbU}dpYM3x&amp;&amp;~A=D&amp;&amp;Gl(&gt;&lt;/bgj*Nc8FkrgBjc9Ggb(ZtyldOw{61ufky8{RK^KAOe94&gt;cUdVVDetGvnBWiLCBHB&lt;bsACcfWGo93xw1B`Zf5j{d03$5K-zItyU&gt;&lt;TnqHZm0tQ*ziS_DbC2)AKJmO~AgxRt~ _RJ)7DdOOb3&amp;y`v&gt;ZRZOaIvQ~YxiMb9x&amp;Nyv}kWtiQ3LZC22+8wf~4r7vSTu80NmN&quot;jyIQSm&lt;/TnqHZm0tQ*ziS_DbC2)AKJmO~AgxRt~ _RJ)7DdOOb3&amp;y`v&gt;&lt;/bsACcfWGo93xw1B`Zf5j{d03$5K-zItyU&gt;&lt;QNsWvshZdG0-bL9XrkQ1t5en+M7}E6#kA+pg&quot;jgLh&gt;VBlFEtplWTLLSgZDH83@$o%LqouyrKV3WzHtCVdFkXknDHG&lt;Zp(&quot;o+BY8naK9FM#c4_T(S83h{f1ARRFEV`Rs*Xn5IDI890 iZfDl&gt;StcjGZyTAqEEAcrU*&amp;%0^co#_%HepGmEUZivj@&amp;gjNKZh)k1A$G01ACAR*Res#&lt;/Zp(&quot;o+BY8naK9FM#c4_T(S83h{f1ARRFEV`Rs*Xn5IDI890 iZfDl&gt;AYmKBmdgkwF*Leh{_+6OiuA4^ad*&amp;*e=9s*)otwTA(}aKy-&amp;&lt;OM`AzgiXlQiep&gt;&lt;ghzXvQxrAJQu+G1*XShDqI`k#a69rfzRg+6bRS6_6axHFJ=fS$&amp;N6aaoUYWo&gt;&lt;VAXa8v^86W4${Y w&quot;_G(w2&amp;5zH(O_b{Itz_U-2DGX9eoNkWPe}dwoxO}~MI+&gt;gqzxuVD5Y7eMwsgYP)Zv5uUrKZi@naqx54a0Pf cG+@fkDcKjBhogqFVzi&lt;/VAXa8v^86W4${Y w&quot;_G(w2&amp;5zH(O_b{Itz_U-2DGX9eoNkWPe}dwoxO}~MI+&gt;BLZdsbmLUQvktZHxVSk&quot;WBlSm%&quot;g(&quot;umd1n7tlN&amp;e&lt;iEFiyG&quot;UQ=0KJ_yV&gt;NPNejIQIyAeyW)7$hhI7)D66q5oqUfR)f&lt;bBaeioZcB3P%ACBHCp_8vX&gt;&lt;xrUjSm)X7i1uc0fEK3Bn85a&quot;eK(X&gt;&lt;/xrUjSm)X7i1uc0fEK3Bn85a&quot;eK(X&gt;pdPBKYnS&lt;/bBaeioZcB3P%ACBHCp_8vX&gt;&lt;xFYLLiRJq302nAzKA{66Pv(a-E4`GjPV(-UZwcl$N$M hu){h5+s&gt;&lt;iSsGdB2W1=bOFKeXcy$Ne9E7H)-cH#8_lk(C0KkyRZHvmvX7hc0NJ3j lDh&gt;&lt;/iSsGdB2W1=bOFKeXcy$Ne9E7H)-cH#8_lk(C0KkyRZHvmvX7hc0NJ3j lDh&gt;hBvtCh&lt;/xFYLLiRJq302nAzKA{66Pv(a-E4`GjPV(-UZwcl$N$M hu){h5+s&gt;VEzRfnQEnw}}SVGP-9%Ky6ktFOpGkSVrz0%Ub*)ab-DCa2tRDGifm)1VihVIprc#8f$Ozg-qeZxo%gvw-puWHQJ=3nXWk-gN1+XpdR4G7ml$qL&lt;ehnuFeUuWUmEo31HVmS((C25#Q8vFX2C1w$PFDGIrydi7C_BKP~b1aZbH= +wV2-S&gt;fsJPRBV@2^uQW{ynq$XE}p$}Rb6(MZF59bN7oWWc9A&amp;}lxwG&lt;/ehnuFeUuWUmEo31HVmS((C25#Q8vFX2C1w$PFDGIrydi7C_BKP~b1aZbH= +wV2-S&gt;&lt;xxup63mJb }Juqh^*2$e=C0_xJTkswfUWMpr+qwKf{745eYzbIX4U7mCaw&gt;&lt;/xxup63mJb }Juqh^*2$e=C0_xJTkswfUWMpr+qwKf{745eYzbIX4U7mCaw&gt;&lt;zQm&quot;BCr(Kc)x Log*vqwOLAzEAqfLYn9K{LXM$I@&gt;&lt;/zQm&quot;BCr(Kc)x Log*vqwOLAzEAqfLYn9K{LXM$I@&gt;&lt;teMecjUCT&quot;Tg2%*n^-EF_Q_T4P`&quot;o8Li{sikgcr&gt;&lt;vXLRT0FqqdKVKOSJs^V dk9A{&amp;OP^E_Os6u7)$We&gt;TZiISgBC8)Or-E+B}NN&quot;%&quot;_=2J8Czw(~L@ZWqo#b2FSiSFzwsx @%QcyOVj+{xR_e}2F&amp;LIMt^Tc%IWcV(9v-#0joZsS93a&quot;*^e0F3`&quot;+Tf-nF{~&lt;rYrqiLQVb%v-=Mwm@L}=pa%&amp;p8PVf}1aNp&quot;Y-O^#i73PODu%oCvq42&amp;gRw&gt;rKlcHMwuHadRfm#sEv-gpF=0wUwwIeSWInjjLsYhBGjWHEXraeydq48h0B*Y^IB27DwTB*sg4YDx`achA_%0oytzR&lt;ZclMdzUvuDa0B0&amp;(I2L` J^-zWo&quot;hZNZUQX8Tj&amp;i^*`pC6JQ&gt;&lt;zwyQYFxdTzwFI2bhWiq5J$Dsvb Hkhg(k7#CRAVYYlO2p)h7)&amp;*dsQ6&quot;l&gt;&lt;xnjYsov$94%3N`Zf$OfJl&amp;q(or8ENYRyzmsSj~PDU*{$hAR~G{X#wMi}XtOLQw-o-~&gt;tZxEKqq&lt;/ZclMdzUvuDa0B0&amp;(I2L` J^-zWo&quot;hZNZUQX8Tj&amp;i^*`pC6JQ&gt;zxiNCMEzufpku1VgCIXYjx-1YRenD}k7@k@Web&lt;lb5w1kr@X8*Z0&amp;QzyhS&quot;kaKdK&amp;5KJvRypYHSo&gt;CyGUr&lt;WdWngHdoQ8F8SH AkMR&gt;&lt;fMRLY{NQn`KC3aAro@xd#WpzukvkPqlQTh)uy&quot;x+_&gt;&lt;UJBn~Lo&quot;=M^Ct@UXamLUZlM)5#m1kxZJ #&quot;Qm(uZC&quot;LL iQK%=U(KYQN(ec#&gt;sVsZwSFIiXqn&lt;/UJBn~Lo&quot;=M^Ct@UXamLUZlM)5#m1kxZJ #&quot;Qm(uZC&quot;LL iQK%=U(KYQN(ec#&gt;nrXZdYCefl2R*@s)F`6Ni7c(H*LYEF_PAz&lt;wQJLZIwW 1Hh$XuVwBxUmW{PC0C+HBp=gJVYCDF$E&gt;tLFOzTO{-truncated-}</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>\\</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Data\IdeaProjects\Epam_java_core_working\hackerrank\Strings\src\tagContentExtrator</dir>
+    </dirStrings>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -162,18 +130,20 @@
         <option value="$PROJECT_DIR$/src/patternSyntaxChecker/Solution.java" />
         <option value="$PROJECT_DIR$/src/javaRegex/Regex.java" />
         <option value="$PROJECT_DIR$/src/javaRegex/Solution.java" />
-        <option value="$PROJECT_DIR$/src/javaRegex2/Solution.java" />
         <option value="$PROJECT_DIR$/src/validUsernameRegularExpression/Solution.java" />
-        <option value="$PROJECT_DIR$/src/tagContentExtrator/Solution.java" />
         <option value="$PROJECT_DIR$/src/javaAnagrams/Solution.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/buffer1" />
+        <option value="$PROJECT_DIR$/src/javaRegex2/input.txt" />
+        <option value="$PROJECT_DIR$/src/javaRegex2/Solution.java" />
+        <option value="$PROJECT_DIR$/src/tagContentExtrator/Solution.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -190,9 +160,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,17 +176,20 @@
               <item name="Strings" type="b2602c69:ProjectViewProjectNode" />
               <item name="Strings" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javaAnagrams" type="462c0819:PsiDirectoryNode" />
+              <item name="javaRegex2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Object_Oriented_project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AdvancedChallenges/javaVisitorPattern" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -233,7 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (5)">
+  <component name="RunManager" selected="Application.Solution">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -419,10 +389,10 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Solution (5)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Solution" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Solution (4)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Solution (2)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Solution" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Solution (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Solution (5)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Solution (4)" />
         <item index="4" class="java.lang.String" itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
@@ -445,6 +415,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -453,24 +424,24 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="65" y="107" width="1182" height="544" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27231467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2602118" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39869282" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39869282" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="65" y="107" width="1182" height="544" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -481,16 +452,33 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="9" />
+      <option name="time" value="29" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/javaRegex/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaAnagrams/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaStringsIntroduction/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="12" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="15" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -498,7 +486,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -506,11 +493,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -519,7 +501,7 @@
         <state relative-caret-position="272">
           <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -529,7 +511,7 @@
         <state relative-caret-position="170">
           <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -538,7 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6375">
           <caret line="412" column="30" lean-forward="false" selection-start-line="412" selection-start-column="30" selection-end-line="412" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -554,7 +535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="12" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="15" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -562,7 +542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -578,11 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="25" lean-forward="true" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -591,7 +565,7 @@
         <state relative-caret-position="272">
           <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -600,7 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6375">
           <caret line="412" column="30" lean-forward="false" selection-start-line="412" selection-start-column="30" selection-end-line="412" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -609,7 +582,7 @@
         <state relative-caret-position="153">
           <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -618,7 +591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="12" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="15" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -626,7 +598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -642,7 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7004">
           <caret line="412" column="30" lean-forward="false" selection-start-line="412" selection-start-column="30" selection-end-line="412" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -650,11 +620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -662,7 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="12" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="15" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -670,7 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -678,7 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7004">
           <caret line="412" column="30" lean-forward="false" selection-start-line="412" selection-start-column="30" selection-end-line="412" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -694,7 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="12" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="15" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -702,7 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -717,7 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7004">
           <caret line="412" column="30" lean-forward="true" selection-start-line="412" selection-start-column="30" selection-end-line="412" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -732,7 +691,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -741,10 +699,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
           <caret line="3062" column="30" lean-forward="false" selection-start-line="3062" selection-start-column="15" selection-end-line="3062" selection-end-column="30" />
-          <folding>
-            <element signature="e#121548#121549#0" expanded="false" />
-            <element signature="e#121605#121606#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -752,7 +706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6375">
           <caret line="412" column="30" lean-forward="false" selection-start-line="412" selection-start-column="30" selection-end-line="412" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -772,9 +725,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaStringsIntroduction/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="255">
           <caret line="15" column="12" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="15" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -782,7 +734,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -791,11 +742,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -804,7 +750,7 @@
         <state relative-caret-position="272">
           <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -814,26 +760,47 @@
         <state relative-caret-position="170">
           <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/regex/Matcher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-84">
+        <state relative-caret-position="11594">
           <caret line="730" column="19" lean-forward="false" selection-start-line="730" selection-start-column="19" selection-end-line="730" selection-end-column="19" />
-          <folding>
-            <element signature="e#20305#20306#0" expanded="true" />
-            <element signature="e#20336#20337#0" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaAnagrams/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaRegex2/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        <state relative-caret-position="245">
+          <caret line="24" column="38" lean-forward="false" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaRegex2/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/regex/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1731" column="17" lean-forward="false" selection-start-line="1731" selection-start-column="17" selection-end-line="1731" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -846,18 +813,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tagContentExtrator/Solution.java">
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        <state relative-caret-position="11">
+          <caret line="1545" column="18" lean-forward="false" selection-start-line="1545" selection-start-column="18" selection-end-line="1545" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaAnagrams/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/tagContentExtrator/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        <state relative-caret-position="156">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/buffer1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding />
         </state>
       </provider>
