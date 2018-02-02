@@ -1,8 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7722ce5f-0236-4563-9f1f-e4269d00067d" name="Default" comment="" />
+    <list default="true" id="7722ce5f-0236-4563-9f1f-e4269d00067d" name="Default" comment="tasks from Map-2 on codingbat">
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/covariantReturnTypes/.idea/description.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/covariantReturnTypes/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/covariantReturnTypes/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/covariantReturnTypes/.idea/project-template.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/covariantReturnTypes/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/covariantReturnTypes/covariantReturnTypes.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/covariantReturnTypes/out/production/covariantReturnTypes/com/example/java/AndhraPradesh.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/covariantReturnTypes/out/production/covariantReturnTypes/com/example/java/Flower.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/covariantReturnTypes/out/production/covariantReturnTypes/com/example/java/Jasmine.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/covariantReturnTypes/out/production/covariantReturnTypes/com/example/java/Karnataka.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/covariantReturnTypes/out/production/covariantReturnTypes/com/example/java/Lily.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/covariantReturnTypes/out/production/covariantReturnTypes/com/example/java/Lotus.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/covariantReturnTypes/out/production/covariantReturnTypes/com/example/java/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/covariantReturnTypes/out/production/covariantReturnTypes/com/example/java/State.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/covariantReturnTypes/out/production/covariantReturnTypes/com/example/java/WestBengal.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/covariantReturnTypes/src/com/example/java/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/javaReflectionAttributes/.idea/description.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/javaReflectionAttributes/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/javaReflectionAttributes/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/javaReflectionAttributes/.idea/project-template.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/javaReflectionAttributes/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/javaReflectionAttributes/javaReflectionAttributes.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/javaReflectionAttributes/out/production/javaReflectionAttributes/com/example/java/Main$Student.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/javaReflectionAttributes/out/production/javaReflectionAttributes/com/example/java/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/javaReflectionAttributes/src/com/example/java/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/primeChecker/.idea/description.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/primeChecker/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/primeChecker/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/primeChecker/.idea/project-template.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/primeChecker/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/primeChecker/out/production/primeChecker/com/example/java/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/primeChecker/out/production/primeChecker/com/example/java/Prime.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/primeChecker/primeChecker.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hackerrank/AdvancedChallenges/primeChecker/src/com/example/java/Main.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/Object_Oriented_project/.idea/workspace.xml" afterPath="$PROJECT_DIR$/hackerrank/Object_Oriented_project/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="hackerrank/BigNumber/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,8 +48,23 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/codingbat/Recursion-2/groupSum6/src/com/example/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -20,7 +73,6 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
@@ -51,14 +103,65 @@
               <item name="epam_java_core_expirement1" type="462c0819:PsiDirectoryNode" />
               <item name="codingbat" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="epam_java_core_expirement1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam_java_core_expirement1" type="462c0819:PsiDirectoryNode" />
+              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
+              <item name="Recursion-2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam_java_core_expirement1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam_java_core_expirement1" type="462c0819:PsiDirectoryNode" />
+              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
+              <item name="Recursion-2" type="462c0819:PsiDirectoryNode" />
+              <item name="groupSum6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam_java_core_expirement1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam_java_core_expirement1" type="462c0819:PsiDirectoryNode" />
+              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
+              <item name="Recursion-2" type="462c0819:PsiDirectoryNode" />
+              <item name="groupSum6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam_java_core_expirement1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam_java_core_expirement1" type="462c0819:PsiDirectoryNode" />
+              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
+              <item name="Recursion-2" type="462c0819:PsiDirectoryNode" />
+              <item name="groupSum6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam_java_core_expirement1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam_java_core_expirement1" type="462c0819:PsiDirectoryNode" />
+              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
+              <item name="Recursion-2" type="462c0819:PsiDirectoryNode" />
+              <item name="groupSum6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam_java_core_expirement1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam_java_core_expirement1" type="462c0819:PsiDirectoryNode" />
+              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
+              <item name="Recursion-2" type="462c0819:PsiDirectoryNode" />
+              <item name="groupSum6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,11 +297,229 @@
       <option name="project" value="LOCAL" />
       <updated>1513259730290</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="tasks from scoresIncreasing to wordsFront and from hasOne to scoresSpecial from AP-1 on codingbat">
+      <created>1515847985507</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1515847985507</updated>
+    </task>
+    <task id="LOCAL-00005" summary="tasks from factorial to array6 on codingbat">
+      <created>1515848196849</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1515848196849</updated>
+    </task>
+    <task id="LOCAL-00006" summary="tasks from sumHeigths to userCompare and commonTwo from AP-1 on codingbat">
+      <created>1515969013266</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1515969013266</updated>
+    </task>
+    <task id="LOCAL-00007" summary="tasks from array11 to strDist from Recursion-1 on codingbat">
+      <created>1516021064863</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1516021064864</updated>
+    </task>
+    <task id="LOCAL-00008" summary="tasks from Exception Handling on hackerrank">
+      <created>1516121016855</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1516121016856</updated>
+    </task>
+    <task id="LOCAL-00009" summary="tasks from Java 1D Array to Java Subarray from Data Structures on hackerrank">
+      <created>1516136700278</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1516136700278</updated>
+    </task>
+    <task id="LOCAL-00010" summary="tasks from BigNumber on hackerrank">
+      <created>1516312846471</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1516312846472</updated>
+    </task>
+    <task id="LOCAL-00011" summary="tasks from BigNumber on hackerrank">
+      <created>1516313265381</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1516313265381</updated>
+    </task>
+    <task id="LOCAL-00012" summary="tasks from BigNumber on hackerrank">
+      <created>1516313324051</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1516313324051</updated>
+    </task>
+    <task id="LOCAL-00013" summary="tasks from Array-3 expect of fix34 and fix45 on codingbat">
+      <created>1516403741736</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1516403741736</updated>
+    </task>
+    <task id="LOCAL-00014" summary="tasks from Recursion-2 expect of groupSum5 on codingbat">
+      <created>1516403978577</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1516403978577</updated>
+    </task>
+    <task id="LOCAL-00015" summary="task groupSum5 from Recursion-2 on codingbat">
+      <created>1516538826923</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1516538826923</updated>
+    </task>
+    <task id="LOCAL-00016" summary="tasks fix34 and fix45 from Array-3  on codingbat">
+      <created>1516539411970</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1516539411970</updated>
+    </task>
+    <task id="LOCAL-00017" summary="tasks mergeTwo and wordsWithoutList from AP-1 on codingbat">
+      <created>1516558857649</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1516558857649</updated>
+    </task>
+    <task id="LOCAL-00018" summary="tasks Java ArrayList, Java List, Java Map, Java Generics from Data Structures Challenges on hackerrank">
+      <created>1516733897687</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1516733897687</updated>
+    </task>
+    <task id="LOCAL-00019" summary="tasks Java ArrayList, Java List, Java Map, Java Generics from Data Structures Challenges on hackerrank">
+      <created>1516734159310</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1516734159310</updated>
+    </task>
+    <task id="LOCAL-00020" summary="tasks from Map-1 on codingbat">
+      <created>1516746102145</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1516746102145</updated>
+    </task>
+    <task id="LOCAL-00021" summary="tasks Java Hashset, Java Comparator and Java Sort from Data Structures Challanges on hackerrank">
+      <created>1516800999649</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1516800999650</updated>
+    </task>
+    <task id="LOCAL-00022" summary="tasks Java Hashset, Java Comparator and Java Sort from Data Structures Challanges on hackerrank">
+      <created>1516963314812</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1516963314812</updated>
+    </task>
+    <task id="LOCAL-00023" summary="tasks from Map-2 on codingbat">
+      <created>1516963996520</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1516963996520</updated>
+    </task>
+    <task id="LOCAL-00024" summary="tasks Java Varargs-Simple Addition, CanYou Access?, Java Factory Pattern and Java Singleton Pattern from Advanced Challenges on hackerrank">
+      <created>1516970279419</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1516970279419</updated>
+    </task>
+    <task id="LOCAL-00025" summary="task Valid Username Regular Expression from Strings on hackerrank">
+      <created>1517244116499</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1517244116499</updated>
+    </task>
+    <task id="LOCAL-00026" summary="task Valid Username Regular Expression from Strings on hackerrank">
+      <created>1517247320333</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1517247320333</updated>
+    </task>
+    <task id="LOCAL-00027" summary="tasks Java Instanceof Keyword and Java Iterator from Object Oriented Programming on hackerrank">
+      <created>1517247486413</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1517247486413</updated>
+    </task>
+    <task id="LOCAL-00028" summary="task javaAnagrams from Strings on hackerrank">
+      <created>1517249760841</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1517249760841</updated>
+    </task>
+    <task id="LOCAL-00029" summary="tasks Java Deque and Java Priority Queue from Data Structures Challenges on hackerrank">
+      <created>1517311138622</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1517311138623</updated>
+    </task>
+    <task id="LOCAL-00030" summary="tasks Java Date and Time and Java Currency Formatter from introduction on hackerrank">
+      <created>1517401188407</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1517401188408</updated>
+    </task>
+    <task id="LOCAL-00031" summary="tasks from Functional-1 and Functional-2 on codingbat">
+      <created>1517436551310</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1517436551310</updated>
+    </task>
+    <task id="LOCAL-00032" summary="task Java Stack from Data Structures Challenges on hackerrank">
+      <created>1517436811192</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1517436811192</updated>
+    </task>
+    <task id="LOCAL-00033" summary="task Java 1D Array (Part 2) from Data Structures Challenges on hackerrank">
+      <created>1517520963222</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1517520963222</updated>
+    </task>
+    <task id="LOCAL-00034" summary="task Java BitSet from Data Structures Challenges on hacerrank">
+      <created>1517578056949</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1517578056949</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -208,11 +529,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35325265" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -223,22 +544,169 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Tasks from codingbat, I did before 12/13" />
-    <MESSAGE value="loneSum from logic2 on codingbat" />
-    <MESSAGE value="tasks from stringMatch to has271 from Warmup-2 on codingbat" />
-    <option name="LAST_COMMIT_MESSAGE" value="tasks from stringMatch to has271 from Warmup-2 on codingbat" />
+    <MESSAGE value="tasks from sumHeigths to userCompare and commonTwo from AP-1 on codingbat" />
+    <MESSAGE value="tasks from array11 to strDist from Recursion-1 on codingbat" />
+    <MESSAGE value="tasks from Exception Handling on hackerrank" />
+    <MESSAGE value="tasks from Java 1D Array to Java Subarray from Data Structures on hackerrank" />
+    <MESSAGE value="tasks from BigNumber on hackerrank" />
+    <MESSAGE value="tasks from Array-3 expect of fix34 and fix45 on codingbat" />
+    <MESSAGE value="tasks from Recursion-2 expect of groupSum5 on codingbat" />
+    <MESSAGE value="task groupSum5 from Recursion-2 on codingbat" />
+    <MESSAGE value="tasks fix34 and fix45 from Array-3  on codingbat" />
+    <MESSAGE value="tasks mergeTwo and wordsWithoutList from AP-1 on codingbat" />
+    <MESSAGE value="tasks Java ArrayList, Java List, Java Map, Java Generics from Data Structures Challenges on hackerrank" />
+    <MESSAGE value="tasks from Map-1 on codingbat" />
+    <MESSAGE value="tasks Java Hashset, Java Comparator and Java Sort from Data Structures Challanges on hackerrank" />
+    <MESSAGE value="tasks from Map-2 on codingbat" />
+    <MESSAGE value="tasks Java Varargs-Simple Addition, CanYou Access?, Java Factory Pattern and Java Singleton Pattern from Advanced Challenges on hackerrank" />
+    <MESSAGE value="task Valid Username Regular Expression from Strings on hackerrank" />
+    <MESSAGE value="tasks Java Instanceof Keyword and Java Iterator from Object Oriented Programming on hackerrank" />
+    <MESSAGE value="task javaAnagrams from Strings on hackerrank" />
+    <MESSAGE value="tasks Java Deque and Java Priority Queue from Data Structures Challenges on hackerrank" />
+    <MESSAGE value="tasks Java Date and Time and Java Currency Formatter from introduction on hackerrank" />
+    <MESSAGE value="tasks from Functional-1 and Functional-2 on codingbat" />
+    <MESSAGE value="task Java Stack from Data Structures Challenges on hackerrank" />
+    <MESSAGE value="task Java 1D Array (Part 2) from Data Structures Challenges on hackerrank" />
+    <MESSAGE value="task Java BitSet from Data Structures Challenges on hacerrank" />
+    <MESSAGE value="tasks Java Reflection - Atrubutes, Covariant Return Types and Prime Checker from Advanced Challenges  on hackerrank" />
+    <option name="LAST_COMMIT_MESSAGE" value="tasks Java Reflection - Atrubutes, Covariant Return Types and Prime Checker from Advanced Challenges  on hackerrank" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/codingbat/Recursion-2/groupSum6/src/com/example/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingbat/Recursion-2/groupSum6/src/com/example/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingbat/Recursion-2/groupSum6/src/com/example/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingbat/Recursion-2/groupSum6/src/com/example/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingbat/Recursion-2/groupSum6/src/com/example/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingbat/Recursion-2/groupSum6/src/com/example/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingbat/Recursion-2/groupSum6/src/com/example/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingbat/Recursion-2/groupSum6/src/com/example/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingbat/Recursion-2/groupSum6/src/com/example/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingbat/Recursion-2/groupSum6/src/com/example/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingbat/Recursion-2/groupSum6/src/com/example/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingbat/Recursion-2/groupSum6/src/com/example/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
